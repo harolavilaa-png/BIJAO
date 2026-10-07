@@ -1,0 +1,6 @@
+{
+  "name": "Origen Oculto — Cocina Colombiana de Autor & Comedor Secreto",
+  "description": "Plataforma de ventas a domicilio de cocina tradicional colombiana en bocados de autor (Lunes a Domingo en Chapinero Zona G) y reservas exclusivas para el Comedor Secreto de Networking los viernes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
